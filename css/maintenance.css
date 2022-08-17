@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    margin: 0;
+}
+body {
+    text-align: center;
+    padding: 20px;
+    font: 1.4em Helvetica, sans-serif;
+    color: #f8f9fa;
+    background: rgb(255, 0, 0);
+    background: linear-gradient(165deg, rgba(255, 0, 0, 1) 0%, rgba(255, 0, 0, 1) 50%, rgba(212, 237, 252, 1) 90%);
+}
+
+@media (min-width: 768px) {
+    body {
+        padding-top: 150px;
+
+    }
+}
+
+h1 {
+    font-size: 2.4em;
+}
+
+h1, .signature, a {
+    color: #bde6ff;
+}
+
+
+article {
+    display: block;
+    text-align: left;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+a:hover {
+    color: #ffffff;
+}

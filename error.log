@@ -1,0 +1,7 @@
+[Fri Jun 03 15:56:28.179970 2022] [php:error] [pid 21] [client 172.18.0.1:36942] script '/var/www/html/color_picker.php' not found or unable to stat, referer: http://localhost:8001/playground.php
+[Tue Jun 07 19:20:04.613797 2022] [php:error] [pid 22] [client 172.18.0.1:48984] script '/var/www/html/entry_form.php' not found or unable to stat, referer: http://localhost:8001/index.php
+[Sat Jun 11 21:51:16.469473 2022] [php:error] [pid 30] [client 172.18.0.1:39966] script '/var/www/html/maintenance.php' not found or unable to stat
+[Sat Jun 11 21:51:18.222748 2022] [php:error] [pid 30] [client 172.18.0.1:39966] script '/var/www/html/maintenance.php' not found or unable to stat
+[Sat Jun 11 21:51:18.648755 2022] [php:error] [pid 30] [client 172.18.0.1:39966] script '/var/www/html/maintenance.php' not found or unable to stat
+[Sat Jun 11 21:51:38.587240 2022] [php:error] [pid 22] [client 172.18.0.1:39974] script '/var/www/html/src/maintenance.php.php' not found or unable to stat
+[Sun Jun 12 20:34:55.280856 2022] [php:error] [pid 17] [client 172.18.0.1:40360] script '/var/www/html/OOP_example.php' not found or unable to stat
